@@ -1,2 +1,2 @@
-# cpursera-text
+# coursera-text
 Coursera text repository 
